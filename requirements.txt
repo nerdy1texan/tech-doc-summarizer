@@ -1,0 +1,12 @@
+#installation
+#python 3.8
+#Cuda 11.8
+#pytorch installation: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#other libraries: pip3 install transformers pdfminer.six
+sentencepiece
+streamlit
+
+#optional
+
+ipykernal
+ipynb
